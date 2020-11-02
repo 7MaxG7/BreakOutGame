@@ -1,0 +1,15 @@
+PaddleMoveSpeed,7
+BallImpulseForce,5
+BallLifetime,15
+SpawnTimeMin,25
+SpawnTimeMax,30
+ScoreForStandartBlock,10
+ScoreForBonusBlock,30
+ScoreForSpecialBlock,15
+BlockBonusChance,20
+BlockFreezeChance,10
+BlockSpeedChance,10
+NumberBallsToLoose,8
+FreezeTime,1
+SpeedTime,2
+SpeedFactor,1.5

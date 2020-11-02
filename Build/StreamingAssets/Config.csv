@@ -1,0 +1,2 @@
+paddleMoveUnitsPerSecond,ballImpulseForce,ballLifetime,spawnTimeMin,spawnTimeMax,scoreStandBlock,scoreBonusBlock,scorePickupBlock,bonusBlockProbty,freezeBlockProbty,speedBlockProbty,ballsToLoose,freezeTime,speedTime,speedFactor
+7,6,8,5,10,10,30,15,20,10,10,5,1,1,1.5
